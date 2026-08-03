@@ -1,0 +1,25 @@
+date,company,contact,email,segment,score,status
+2026-08-03,Fable & Mane,Claire Paszynska,claire@fableandmane.com,A,5,drafted (review copy)
+2026-08-03,VIEVE,Giulia Fiorillo,giulia@vieve.co.uk,A,5,drafted (review copy)
+2026-08-03,gitti Conscious Beauty,Paula Hamann,paula@gitticonsciousbeauty.de,A,4,drafted (review copy)
+2026-08-03,Soft Care Cosmetics Trading LLC,Maya Fadel,maya@softcarecosmetics.com,C,5,drafted (review copy)
+2026-08-03,Act+Acre Inc.,Helen Reavey,helen@actandacre.com,A,4,drafted (review copy)
+2026-08-03,Ceremonia,Francisca Maier,francisca@ceremonia.com,A,4,drafted (review copy)
+2026-08-03,Caldera + Lab,Lars Callary,lars@calderalab.com,A,4,drafted (review copy)
+2026-08-03,Soteri Skin,Lama Mansour,lama@soteriskin.com,A,4,drafted (review copy)
+2026-08-03,BROWN GIRL Jane,Malaika Jones,malaika@browngirljane.com,A,4,drafted (review copy)
+2026-08-03,Trio Beauty,Briana Olson,briana@vibecpg.com,A,4,drafted (review copy) - verify domain
+2026-08-03,Naked Sundays SPF,Samantha Brett,samantha@nakedsundays.com,A,4,drafted (review copy) - batch 2
+2026-08-03,Adorn Cosmetics,Briony Kennedy,briony@adorncosmetics.com.au,A,4,drafted (review copy) - batch 2
+2026-08-03,Body Restore,John Li,john@bodyrestore.co,A,4,drafted (review copy) - batch 2
+2026-08-03,Bespoke Beauty Brands,Toni Ko,toniko@bespokebeautybrands.com,A,4,drafted (review copy) - batch 2
+2026-08-03,dip sustainable,Kate Assaraf,kate@dipalready.com,A,3,drafted (review copy) - batch 2
+2026-08-03,BM Cosmetics for Men,Beau Mooi,beau.mooi@bmcosmetics.com.au,A,3,drafted (review copy) - batch 2
+2026-08-03,Lazartigue Paris,Alexis Robillard,alexis.robillard@lazartigue.com,A,3,drafted (review copy) - batch 2, verify contact role
+2026-08-03,Spret Retail,Bilal Chaudhry,bilal@spret-me.com,C,3,drafted (review copy) - batch 2, IT role not buyer (routing ask included)
+2026-08-03,Al Jamal Enterprises,Hamza Alismael,hamza@aljamalenterprises.com,C,3,drafted (review copy) - batch 2, catch-all email risk
+2026-08-03,Slate Brands,Judah Abraham,judah@slatebrands.com,-,1,skipped - competitor OEM/incubator
+2026-08-03,Evident Ingredients,Shami Kaur Bola,shami@evident-ingredients.com,-,1,skipped - ingredients supplier not ICP
+2026-08-03,Almidad Medical Supplies,Belal Alhawi,belal@midadmedical.ae,-,1,skipped - medical not beauty
+2026-08-03,Sodashi Skincare,Caroline Johnston,caroline.johnston@sodashi.com,-,2,skipped - owns manufacturing
+2026-08-03,Dutjahn Sandalwood Oils,Guy Vincent,gvincent@dutjahn.com,-,1,skipped - raw material supplier
